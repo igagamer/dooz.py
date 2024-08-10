@@ -1,7 +1,7 @@
 from tkinter import *
 import time
 window = Tk()
-window.title('Clock')
+window.title('Clock by igagamer(faiz)')
 window.geometry('600x400')
 def myTime():
     hour = time.strftime('%H')
